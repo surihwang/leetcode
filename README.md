@@ -23,10 +23,15 @@ leetcode
 ## Array
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/surihwang/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0605-can-place-flowers](https://github.com/surihwang/leetcode/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/surihwang/leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Greedy
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/surihwang/leetcode/tree/master/0605-can-place-flowers) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/surihwang/leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
